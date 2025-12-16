@@ -1,9 +1,5 @@
-## Hi there 👋
-
-<!--
-**maticmaver/maticmaver** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+## Predstavitev sebe
+Sem Matic Maver, obiskujem Elektrotehniško in računalniško šolo v Novi Gorici. Učim se izdelovanja spletnih strani s pomočjo HTML-ja in CSS-ja, ter učim se programirati z programom Java. V prihodnosti bi rad samostojno izdelal aplikacijo ali spletno stran. Rad bi se naučil tudi druge programske jezike kot Phyton in Javascript
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
